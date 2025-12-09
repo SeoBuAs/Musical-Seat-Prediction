@@ -47,14 +47,7 @@ date, seat, cast1, cast2, cast3, cast4, weekend, day, dc, evt
 
 ## 💻 Usage Examples
 
-### 1. Full Experiment
-
-```bash
-# Run all 4 versions
-./run_all_versions.sh
-```
-
-### 2. Individual Execution
+### Individual Execution
 
 ```python
 # Direct execution in Python
